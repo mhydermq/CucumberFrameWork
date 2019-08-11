@@ -1,0 +1,56 @@
+2019-07-15 13:59:15 INFO  Log:12 - ****************************************************************************************
+2019-07-15 13:59:15 INFO  Log:13 - $$$$$$$$$$$$$$$$$$$$$                 User is able to select a flight and continue       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-07-15 13:59:15 INFO  Log:14 - ****************************************************************************************
+2019-07-15 13:59:19 INFO  Log:24 - Page Factory initialized
+2019-07-15 13:59:20 INFO  Log:24 - Demo URL Launched
+2019-07-15 13:59:20 INFO  Log:24 - Wait for element User Name text box
+2019-07-15 13:59:21 INFO  Log:24 - Screenshot captured
+2019-07-15 13:59:21 INFO  Log:24 - Element Clicked: User Name text box
+2019-07-15 13:59:21 INFO  Log:24 - HomePage.loginUser - username textbox clicked
+2019-07-15 13:59:21 INFO  Log:24 - Wait for element User Name text box
+2019-07-15 13:59:21 INFO  Log:24 - Enter text: User Name text box
+2019-07-15 13:59:21 INFO  Log:24 - HomePage.loginUser - username entered
+2019-07-15 13:59:21 INFO  Log:24 - Wait for element Password text box
+2019-07-15 13:59:22 INFO  Log:24 - Screenshot captured
+2019-07-15 13:59:22 INFO  Log:24 - Element Clicked: Password text box
+2019-07-15 13:59:22 INFO  Log:24 - HomePage.loginUser - password textbox clicked
+2019-07-15 13:59:22 INFO  Log:24 - Wait for element Password text box
+2019-07-15 13:59:22 INFO  Log:24 - Enter text: Password text box
+2019-07-15 13:59:22 INFO  Log:24 - HomePage.loginUser - password entered
+2019-07-15 13:59:23 INFO  Log:24 - Wait for element Login button
+2019-07-15 13:59:23 INFO  Log:24 - Screenshot captured
+2019-07-15 13:59:24 INFO  Log:24 - Element Clicked: Login button
+2019-07-15 13:59:28 INFO  Log:24 - HomePage.loginUser - login button clicked
+2019-07-15 13:59:28 INFO  Log:24 - Page Factory initialized
+2019-07-15 13:59:28 INFO  Log:24 - Wait for element Flight Finder Image
+2019-07-15 13:59:29 INFO  Log:24 - Screenshot captured
+2019-07-15 13:59:29 INFO  Log:24 - Element Clicked: Flight Finder Image
+2019-07-15 13:59:29 INFO  Log:24 - FlightFinderPage.findFlights - Find Flights Image clicked
+2019-07-15 13:59:30 INFO  Log:24 - Wait for element One Way radio button
+2019-07-15 13:59:30 INFO  Log:24 - Screenshot captured
+2019-07-15 13:59:30 INFO  Log:24 - Element Clicked: One Way radio button
+2019-07-15 13:59:30 INFO  Log:24 - FlightFinderPage.findFlights - One way Radio Button clicked
+2019-07-15 13:59:31 INFO  Log:24 - Wait for element Select number of passengers
+2019-07-15 13:59:31 INFO  Log:24 - Select element: Select number of passengers
+2019-07-15 13:59:31 INFO  Log:24 - FlightFinderPage.findFlights - Depart From Dropdown clicked
+2019-07-15 13:59:31 INFO  Log:24 - Wait for element From Port drop down
+2019-07-15 13:59:31 INFO  Log:24 - Select element: From Port drop down
+2019-07-15 13:59:31 INFO  Log:24 - FlightFinderPage.findFlights - Depart From Dropdown clicked
+2019-07-15 13:59:31 INFO  Log:24 - Wait for element From Month drop down
+2019-07-15 13:59:31 INFO  Log:24 - Select element: From Month drop down
+2019-07-15 13:59:31 INFO  Log:24 - FlightFinderPage.findFlights - Depart Month Dropdown clicked
+2019-07-15 13:59:31 INFO  Log:24 - Wait for element From Day drop down
+2019-07-15 13:59:32 INFO  Log:24 - Select element: From Day drop down
+2019-07-15 13:59:32 INFO  Log:24 - FlightFinderPage.findFlights - Depart Date Dropdown clicked
+2019-07-15 13:59:32 INFO  Log:24 - Wait for element Business radio button
+2019-07-15 13:59:32 INFO  Log:24 - Screenshot captured
+2019-07-15 13:59:33 INFO  Log:24 - Element Clicked: Business radio button
+2019-07-15 13:59:33 INFO  Log:24 - FlightFinderPage.findFlights - Business Radio Button clicked
+2019-07-15 13:59:33 INFO  Log:24 - Wait for element Airline drop down
+2019-07-15 13:59:33 INFO  Log:24 - Select element: Airline drop down
+2019-07-15 13:59:33 INFO  Log:24 - FlightFinderPage.findFlights - Depart airline Dropdown clicked
+2019-07-15 13:59:33 INFO  Log:24 - Wait for element Flight Finder Image
+2019-07-15 13:59:34 INFO  Log:24 - Screenshot captured
+2019-07-15 13:59:34 INFO  Log:24 - Element Clicked: Flight Finder Image
+2019-07-15 13:59:34 INFO  Log:24 - FlightFinderPage.findFlights - Find Flights Image clicked
+2019-07-15 13:59:34 INFO  Log:19 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX

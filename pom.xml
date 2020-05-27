@@ -20,7 +20,7 @@
     
     <selenium.version>3.141.59</selenium.version>
 		<testng.version>6.14.3</testng.version>
-		<log4j.version>1.2.16</log4j.version>
+		<log4j.version>1.1.3</log4j.version>
 		<extent.version>2.41.2</extent.version>
 		<selenium.browser>CHROME</selenium.browser>	
 <webdriver.safari.driver>/Users/hyder/Downloads/webdrivers/safaridriver</webdriver.safari.driver>
@@ -68,12 +68,13 @@
     <version>3.141.59</version>
 </dependency>
 
-  <!-- https://mvnrepository.com/artifact/log4j/log4j -->
+ <!-- https://mvnrepository.com/artifact/log4j/log4j -->
 <dependency>
     <groupId>log4j</groupId>
     <artifactId>log4j</artifactId>
-    <version>1.2.16</version>
+    <version>1.1.3</version>
 </dependency>
+
 
 <!-- https://mvnrepository.com/artifact/com.relevantcodes/extentreports -->
 <dependency>

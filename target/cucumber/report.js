@@ -19,7 +19,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 11620382300,
+  "duration": 16644369800,
   "status": "passed"
 });
 formatter.scenario({
@@ -65,7 +65,7 @@ formatter.match({
   "location": "Home_Step.a_user_lands_into_website(String)"
 });
 formatter.result({
-  "duration": 1303677501,
+  "duration": 1173004400,
   "status": "passed"
 });
 formatter.match({
@@ -78,7 +78,7 @@ formatter.match({
   "location": "Home_Step.a_user_clicks_username_and_enter_as_username(String)"
 });
 formatter.result({
-  "duration": 1754352000,
+  "duration": 967156100,
   "status": "passed"
 });
 formatter.match({
@@ -91,14 +91,14 @@ formatter.match({
   "location": "Home_Step.a_user_clicks_password_and_enter_as_password(String)"
 });
 formatter.result({
-  "duration": 1369305500,
+  "duration": 715492200,
   "status": "passed"
 });
 formatter.match({
   "location": "Home_Step.a_user_click_login_button()"
 });
 formatter.result({
-  "duration": 5881910700,
+  "duration": 6336345700,
   "status": "passed"
 });
 formatter.match({
@@ -111,15 +111,15 @@ formatter.match({
   "location": "FlightFinder_Step.a_user_is_able_to_veriy_page(String)"
 });
 formatter.result({
-  "duration": 1201926900,
+  "duration": 535594000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1499037200,
+  "duration": 5514066300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3803215700,
+  "duration": 9516258300,
   "status": "passed"
 });
 formatter.scenario({
@@ -226,7 +226,7 @@ formatter.match({
   "location": "Home_Step.a_user_lands_into_website(String)"
 });
 formatter.result({
-  "duration": 663407500,
+  "duration": 770822100,
   "status": "passed"
 });
 formatter.match({
@@ -239,7 +239,7 @@ formatter.match({
   "location": "Home_Step.a_user_clicks_username_and_enter_as_username(String)"
 });
 formatter.result({
-  "duration": 1351651501,
+  "duration": 747728600,
   "status": "passed"
 });
 formatter.match({
@@ -252,14 +252,14 @@ formatter.match({
   "location": "Home_Step.a_user_clicks_password_and_enter_as_password(String)"
 });
 formatter.result({
-  "duration": 1315046800,
+  "duration": 702964800,
   "status": "passed"
 });
 formatter.match({
   "location": "Home_Step.a_user_click_login_button()"
 });
 formatter.result({
-  "duration": 5846411201,
+  "duration": 6394054900,
   "status": "passed"
 });
 formatter.match({
@@ -272,14 +272,14 @@ formatter.match({
   "location": "FlightFinder_Step.a_user_is_able_to_veriy_page(String)"
 });
 formatter.result({
-  "duration": 1098841400,
+  "duration": 567274500,
   "status": "passed"
 });
 formatter.match({
   "location": "FlightFinder_Step.a_user_able_to_enter_required_details_in_Flight_Finder_page_and_click_Continue(String,String\u003e)"
 });
 formatter.result({
-  "duration": 3399519300,
+  "duration": 2008116700,
   "status": "passed"
 });
 formatter.match({
@@ -292,11 +292,11 @@ formatter.match({
   "location": "FlightFinder_Step.a_user_is_able_to_veriy_page(String)"
 });
 formatter.result({
-  "duration": 989040400,
+  "duration": 536396900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1038619100,
+  "duration": 796638000,
   "status": "passed"
 });
 });

@@ -22,7 +22,7 @@ Feature: Verify user is able to select  a flight and continue
     
       | Type           | One Way          |
       
-      | Passengers     |                2 |
+      | Passengers     |               2  |
       
       | Departing From | London           |
       
